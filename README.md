@@ -1,4 +1,4 @@
-# Problem Link: https://atcoder.jp/contests/abc124/tasks/abc124_a?lang=en
+## Problem Link: https://atcoder.jp/contests/abc124/tasks/abc124_a?lang=en
 
 Problem Statement
 There are two buttons, one of size A and one of size B.
